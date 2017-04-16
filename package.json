@@ -1,0 +1,23 @@
+{
+  "name": "@richardo2016/lib-less-weui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardo2016/lib-less-weui.git"
+  },
+  "keywords": [
+    "less",
+    "weui"
+  ],
+  "author": "Chen Lei <richardo2016@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardo2016/lib-less-weui/issues"
+  },
+  "homepage": "https://github.com/richardo2016/lib-less-weui#readme"
+}
